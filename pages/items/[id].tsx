@@ -17,7 +17,7 @@ import { Checkout } from "../../components/checkout";
 import { ProductContext } from "../_app";
 const products = [
   {
-    name: "The Book",
+    name: "Early Bird Ticket",
     price: 10,
     images:
     {
