@@ -22,8 +22,8 @@ const products = [
     images:
     {
       id: 1,
-      src: "https://i.ibb.co/r2gmzxj/image.png",
-      alt: "The Book",
+      src: "https://i.ibb.co/X3rNz8L/photo1684988667.jpg",
+      alt: "Reforum",
     },
     orgId: "64690c75b970df46f4773ece",
     wallet: "6iDSfntQxbehSK6DbuxAPnkSYAeAnfS6AMPAz1S8bz6A",
